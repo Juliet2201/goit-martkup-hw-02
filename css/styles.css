@@ -15,10 +15,26 @@ body {
 }
 .header-logo {
   text-decoration:none;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.50;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
 }
+
+.header-logo:hover,
+.header-logo:focus {
+  color: #404BBF;
+}
+
 .header-list {
-  list-style:none
-      }
+ list-style: none;
+}
+ a {
+  text-decoration: none;
+}
 
 .header-link {
   font-weight: 500;
@@ -34,11 +50,12 @@ body {
   color: #404BBF;
 }
 
+.address {
+
+}
+
 .address-list {
 list-style:none
-}
-.link {
-text-decoration:none
 }
 
 .address-link {
