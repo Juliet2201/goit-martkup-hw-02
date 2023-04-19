@@ -148,7 +148,7 @@ color: #FFFFFF;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: var(--title-color)
+  color:  #2e2f42;
   visibility: hidden;
 }
 .services-list {
@@ -160,6 +160,7 @@ color: #FFFFFF;
 
 /**--------------TEAM-----------------*/
 .team {
+  background-color: #F4F4FD
 }
 .team-title {
   font-size: 36px;
@@ -171,6 +172,10 @@ color: #FFFFFF;
 }
 .team-list {
   list-style:none
+}
+.list {
+  list-style:none;
+  background-color: #FFFFFF;
 }
 .team-item {
 }
