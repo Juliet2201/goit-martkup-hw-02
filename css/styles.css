@@ -146,6 +146,7 @@ color: #FFFFFF;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--title-color)
+  visibility: hidden;
 }
 .services-list {
   list-style:none
