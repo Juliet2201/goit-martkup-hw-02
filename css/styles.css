@@ -101,8 +101,8 @@ background-color: #2E2F42;
 
 .hero-btn:hover,
 .hero-btn:focus {
+   color: #FFFFFF;
   background-color: #404BBF;
-  color: #FFFFFF;
 }
  
 /**--------------PRIORITIES-----------------*/
