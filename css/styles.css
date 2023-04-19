@@ -115,6 +115,7 @@ color: #FFFFFF;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--title-color)
+  visibility: hidden;
  }
 .priorities-list {
   list-style:none
