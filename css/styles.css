@@ -84,7 +84,7 @@ line-height: 1.07;
 text-align: center;
 letter-spacing: 0.02em;
 color: #FFFFFF;
-background-color: var(--title-color)
+background-color: #2E2F42;
 }
 .hero-btn {
   font-family: inherit;
@@ -99,6 +99,12 @@ background-color: var(--title-color)
   cursor: pointer
 }
 
+.hero-btn:hover,
+.hero-btn:focus {
+  background-color: #404BBF;
+  color: #FFFFFF;
+}
+ 
 /**--------------PRIORITIES-----------------*/
 .priorities {
 }
