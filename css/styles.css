@@ -1,7 +1,3 @@
-:root {
-  --title-color: #2E2F42;
-  --subtitle-color: #2E2F42;
-}
 
 body {
   font-family:Roboto, sans-serif;
@@ -13,9 +9,8 @@ body {
 .header {
 }
 .header-navigation {
-  
+    list-style: none
 }
-
 .list {
   list-style: none
 }
@@ -54,9 +49,10 @@ body {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2E2F42;
-  
+  }
+  .link {
+  text-decoration:none ;
 }
-
 .header-link:hover,
 .header-link:focus {
 color: #404BBF;
