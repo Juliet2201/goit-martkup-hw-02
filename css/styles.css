@@ -1,4 +1,6 @@
-
+:root {
+  --header-link: #2E2F42;
+}
 body {
   font-family:Roboto, sans-serif;
   color: #434455;
@@ -48,7 +50,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2E2F42;
+  color: var(--header-link);
   }
   .link {
   text-decoration:none ;
