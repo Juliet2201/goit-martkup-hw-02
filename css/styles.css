@@ -10,7 +10,6 @@ body {
 }
 .header-navigation {
     list-style: none
-
 }
 .list {
   list-style: none
@@ -24,9 +23,7 @@ body {
  text-transform: uppercase;
  color:  #4D5AE5;
 }
-.span {
-  color: #2e2f42;
-}
+
 .header-logo:hover,
 .header-logo:focus {
  color: #404BBF;
