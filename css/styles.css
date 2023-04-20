@@ -14,7 +14,10 @@ body {
 }
 .header-navigation {
   
-  
+}
+
+.list {
+  list-style: none
 }
 .header-logo {
  font-family:Raleway, sans-serif;
