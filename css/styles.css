@@ -121,7 +121,7 @@ color: #FFFFFF;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: var(--title-color)
+  color: #2E2F42;
   visibility hidden;
 }
 .priorities-list {
@@ -137,7 +137,7 @@ color: #FFFFFF;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: var(--subtitle-color)
+  color: #2E2F42;
 }
 .priorities-text {
    font-size: 16px;
