@@ -26,8 +26,7 @@ body {
  line-height: 1.17;
  letter-spacing: 0.03em;
  text-transform: uppercase;
- text-decoration:none
- text-color: #4D5AE5;
+ color:  #4D5AE5;
 }
 
 .link {
@@ -38,7 +37,7 @@ body {
 }
 .header-logo:hover,
 .header-logo:focus {
-  color: #404BBF;
+ color: #404BBF;
 }
 
 .header-list {
