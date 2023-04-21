@@ -221,3 +221,62 @@ color: #FFFFFF;
   letter-spacing: 0.02em;
   color: #F4F4FD;
 }
+
+/**--------------PORTFOLIO-HERO-----------------*/
+
+.navigation {
+
+}
+
+.navigation-list {
+}
+.list {
+  list-style:none
+}
+.portfolio-btn {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.50;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.04em;
+  color: #4D5AE5;
+}
+
+.portfolio-btn:hover,
+.portfolio-btn:focus {
+   color: #FFFFFF;
+  background-color: #404BBF;
+}
+
+/**--------------PORTFOLIO-Services-----------------*/
+
+.services-1 {
+}
+.services-list {
+ 
+}
+.list {
+   list-style: none;
+}
+.services-link {
+}
+.link {
+  text-decoration:none
+}
+.services-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.20;
+  letter-spacing: 0.02em;
+  color: #2E2F42;
+}
+.services-text {
+  font-size: 16px;
+  line-height: 21.50;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+
