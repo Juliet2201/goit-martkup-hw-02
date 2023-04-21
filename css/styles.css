@@ -1,4 +1,7 @@
-
+:root{
+  --section-title-color: #2E2F42;
+  --section-subtitle-color: #2E2F42;
+}
 body {
   font-family:Roboto, sans-serif;
   color: #434455;
@@ -111,7 +114,7 @@ color: #FFFFFF;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #2E2F42;
+  color: var(--section-title-color);
   visibility: hidden;
 }
 .priorities-list {
@@ -127,7 +130,7 @@ color: #FFFFFF;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #2E2F42;
+  color: var(--section-subtitle-color);
 }
 .priorities-text {
    font-size: 16px;
@@ -145,7 +148,7 @@ color: #FFFFFF;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color:  #2e2f42;
+  color:  var(--section-title-color);
   visibility: hidden;
 }
 .services-list {
@@ -165,7 +168,7 @@ color: #FFFFFF;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #2E2F42
+  color: var(--section-title-color);
 }
 .team-list {
   list-style:none
@@ -181,7 +184,7 @@ color: #FFFFFF;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: #2E2F42
+  color: var(--section-subtitle-color);
 }
 .team-text {
   font-size: 16px;
