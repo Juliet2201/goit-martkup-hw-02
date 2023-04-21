@@ -224,7 +224,7 @@ color: #FFFFFF;
 
 /**--------------PORTFOLIO-HERO-----------------*/
 
-.portfolio-hero {
+.portfolio-services {
 }
 .portfolio-navigation {
   visibility: hidden;
@@ -237,7 +237,7 @@ color: #FFFFFF;
    list-style: none 
 }
 .navigation-btn {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
