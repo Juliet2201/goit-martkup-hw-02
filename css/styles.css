@@ -261,12 +261,12 @@ color: #FFFFFF;
 .services-list {
 }
 .list {
-  list-style: none 
+  list-style: none; 
 }
 .services-link {
 }
 .link {
-  text-decoration:none
+  text-decoration:none;
 }
 .services-subtitle {
   font-weight: 500;
